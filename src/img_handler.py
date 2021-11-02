@@ -1,6 +1,5 @@
 import numpy as np
 from PIL import Image, ImageDraw
-import discord
 
 avatar = Image.open("img/2a68368c6fb9e11ab3069294038d8367.webp")
 avatar_w, avatar_h = avatar.size
